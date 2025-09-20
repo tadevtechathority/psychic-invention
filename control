@@ -1,0 +1,10 @@
+Package: com.baontq.keylib
+Name: Dylib key
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Dylib APIServer
+Maintainer: APIServer
+Author: baontq
+Section: Tweaks
+Homepage: https://v3.baontq.xyz
